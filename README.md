@@ -1,2 +1,2 @@
 # Java-Code
-Class and Railway Ticket Management System
+Railway Ticket Management System
